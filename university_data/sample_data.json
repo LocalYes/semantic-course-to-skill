@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Advanced Calculus I",
+        "code": "MATH 5301",
+        "university": "Alabama State University",
+        "description": "A proof-based course on functions of one variable. Topics include properties of the real and complex numbers, metric spaces and basic topology, sequences and series, a careful study of limits and continuity, differentiation and Reimann-Stieltjes integration. Students are prepared for graduate study and research in mathematics. Students can understand and can prove the foundations of calculus."
+    },
+    {
+        "name": "Advanced Microeconomics",
+        "code": "ECON 5031",
+        "university": "Alabama State University",
+        "description": "This course is the second course in a two-course sequence in microeconomics theory. It addresses the concepts of general equilibrium, welfare economics and imperfect competition. Students will be able to discuss models with markets under imperfect competition including but not limited to monopoly and oligopoly models. Students will be able to analyze problems in welfare economics including application of the main welfare theorems. Students will be able to use general equilibrium models of exchange. Students will be able to demonstrate the welfare theorems in general equilibrium using an Edgeworth Box model. Students will be able to apply the basic concepts in game theory, including but not limited to Best Response and Nash Equilibrium, to the canonical game models. Students will be able to apply knowledge of asymmetric and hidden action problems including moral hazard and adverse selection. Students will be able to analyze and solve mathematical models of advanced complexity in microeconomics. Students will be able to apply calculus techniques to model solutions."
+    },
+    {
+        "name": "Managing Individuals and Teams",
+        "code": "MGT 5001",
+        "university": "Alabama State University",
+        "description": "This course presents a strategic and analytical approach to complex behavioral problems involving interactions among individuals, teams, and organizational factors. The course explores topics such as leadership, team dynamics, motivation, decision-making, power/persuasion, and conflict as they apply to the management of individuals and teams in organizations. The class utilizes case studies, experiential exercises, personal reflection, and an organizational consulting project to practice and refine students’ management skills as well as to gain insight into their own strengths and weaknesses as a manager. Students will be able to describe how individual differences impact behavior, attitudes, and performance. Students will be able to describe the conditions necessary for successful team performance. Students will be able to apply motivation theories to leverage human capital. Students will be able to identify and describe individual and group decision-making processes. Students will be able to explain the principles of influence and persuasion. Students will be able to outline the principles and application of various leadership theories. Students will be able to identify the drivers and consequences of organizational culture."
+    },
+    {
+        "name": "Advanced Calculus I",
+        "code": "MATH 5301",
+        "university": "Alabama State University",
+        "description": "A proof-based course on functions of one variable. Topics include properties of the real and complex numbers, metric spaces and basic topology, sequences and series, a careful study of limits and continuity, differentiation and Reimann-Stieltjes integration. Students are prepared for graduate study and research in mathematics. Students can understand and can prove the foundations of calculus."
+    },
+    {
+        "name": "Advanced Microeconomics",
+        "code": "ECON 5031",
+        "university": "Alabama State University",
+        "description": "This course is the second course in a two-course sequence in microeconomics theory. It addresses the concepts of general equilibrium, welfare economics and imperfect competition. Students will be able to discuss models with markets under imperfect competition including but not limited to monopoly and oligopoly models. Students will be able to analyze problems in welfare economics including application of the main welfare theorems. Students will be able to use general equilibrium models of exchange. Students will be able to demonstrate the welfare theorems in general equilibrium using an Edgeworth Box model. Students will be able to apply the basic concepts in game theory, including but not limited to Best Response and Nash Equilibrium, to the canonical game models. Students will be able to apply knowledge of asymmetric and hidden action problems including moral hazard and adverse selection. Students will be able to analyze and solve mathematical models of advanced complexity in microeconomics. Students will be able to apply calculus techniques to model solutions."
+    },
+    {
+        "name": "Managing Individuals and Teams",
+        "code": "MGT 5001",
+        "university": "Alabama State University",
+        "description": "This course presents a strategic and analytical approach to complex behavioral problems involving interactions among individuals, teams, and organizational factors. The course explores topics such as leadership, team dynamics, motivation, decision-making, power/persuasion, and conflict as they apply to the management of individuals and teams in organizations. The class utilizes case studies, experiential exercises, personal reflection, and an organizational consulting project to practice and refine students’ management skills as well as to gain insight into their own strengths and weaknesses as a manager. Students will be able to describe how individual differences impact behavior, attitudes, and performance. Students will be able to describe the conditions necessary for successful team performance. Students will be able to apply motivation theories to leverage human capital. Students will be able to identify and describe individual and group decision-making processes. Students will be able to explain the principles of influence and persuasion. Students will be able to outline the principles and application of various leadership theories. Students will be able to identify the drivers and consequences of organizational culture."
+    }
+]
